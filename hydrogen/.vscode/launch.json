@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        
+        
+        {
+            "name": "DebugLaunch",
+            "type": "cppdbg",
+            "request": "launch",
+            "cwd": "${fileDirname}",
+            "miDebuggerPath": "gdb",
+            "program": "${workspaceRoot}/build/hydro"
+        }
+    ]
+}
